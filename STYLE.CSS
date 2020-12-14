@@ -1,0 +1,26 @@
+h2{
+    color:#FF0000;
+    padding: 20px;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.pics{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.foot{
+    display:flex;
+    justify-content: flex-end;
+}
+p{
+    text-align:center;
+    font-weight: "bold";
+    color:#000000 ;
+}
+body{
+    background-color:#808080;
+}
